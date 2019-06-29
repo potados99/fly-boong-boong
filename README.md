@@ -23,7 +23,7 @@ INU 문화기획단, [팜메이트](https://farmate.kr), [넷임팩트](https://
 - 팀의 우두머리.
 - 아이디어뱅크. 일 잘함.
 
-#### [노승범](http://flow4you.tk)
+#### [노승범](https://github.com/Tenser)
 
 - 천재.
 - 일반인을 아득히 뛰어넘는 사고방식을 보유.
