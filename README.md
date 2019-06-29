@@ -36,7 +36,7 @@ INU 문화기획단, [팜메이트](https://farmate.kr), [넷임팩트](https://
 
 ## 팀 프로젝트 "Farm Together"
 
-![프로젝트 개요 사진](img/farm-together.png)
+![프로젝트 개요 사진](images/farm-together.png)
 
 #### 농작 베테랑과 함께 키우는 작물
 
@@ -50,5 +50,8 @@ INU 문화기획단, [팜메이트](https://farmate.kr), [넷임팩트](https://
 
 
 ## 사업 계획
+
+
+- [사업계획서](documents/farm-together.pdf)
 
 (작성중)
