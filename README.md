@@ -55,6 +55,6 @@ INU 문화기획단, [팜메이트](https://farmate.kr), [넷임팩트](https://
 ## 사업 계획
 
 
-- [사업계획서](documents/farm-together.pdf)
+- [사업계획서](documents/farm-together-business-plan.pdf)
 
 (작성중)
