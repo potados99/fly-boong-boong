@@ -54,7 +54,8 @@ INU 문화기획단, [팜메이트](https://farmate.kr), [넷임팩트](https://
 
 ## 사업 계획
 
+식물 씨앗과 간단한 도구가 들어있는 키트를 판매하여 수익을 달성합니다. 수익의 90%는 생산 농가에, 10%는 팜메이트 활동가에게 분배됩니다. 애플리케이션은 이 수익을 통해 운영됩니다.
 
-- [사업계획서](documents/farm-together-business-plan.pdf)
+2019년 7월 16일 화요일 오후 2시에 [파머스 체험가든](https://farmeredu.modoo.at/?link=v609i6vc)에서 간단한 아이디어 설명회가 있을 예정입니다.
 
-(작성중)
+자세한 사항은 [사업계획서](documents/farm-together-business-plan.pdf)를 참고하시기 바랍니다.
